@@ -1,0 +1,60 @@
+---
+---
+
+@import "type-on-strap";
+
+// Change avatar to a circle
+.site-header .avatar {
+  border-radius: 50%;
+  // height: 4em;
+  // width: 4em;
+}
+
+
+// change picture zoom
+
+.call-out { 
+	// background-attachment: local;
+	background-size: cover;
+}
+
+#main {
+	// background-position: center 100px;
+
+}
+
+header#main {
+	padding-top: 7%;
+	padding-bottom: 7%;
+	background-size: 100%;
+}
+
+.article-image-text-left {
+	float: left;
+}
+
+.article-image-text-right {
+	float: right;
+}
+
+/*.portfolio-cell img {
+	width: auto;
+	height: 220px;
+}*/
+
+.portfolio-cell {
+  flex: 0 0 50%;
+  margin-bottom: 10px;
+}
+
+.portfolio-link img {
+	padding-left:3%;
+	padding-right:3%;
+}
+
+
+.post-content img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+}
