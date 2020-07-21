@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Radio-Active CoWS
-feature-img: "assets/img/MOO_1007.png"
+feature-img: "assets/img/research/radio_active_cows/MOO_1007.png"
 img: "assets/img/research/radio_active_cows/MOO1007_RadCows_title.png"
 date: 1 February 2019 & 10 January 2020
 ---
