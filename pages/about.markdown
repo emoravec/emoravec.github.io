@@ -16,7 +16,7 @@ Beyond the pleasure of producing research products, I also enjoy the processes r
 
 I thrive at the intersection between science and the public. I have a passion for science communication and engaging all ages in the thrills of scientific discovery. Wherever my career takes me, I look for opportunities to participate in and organize public outreach events. My scientific background and my desire to use that knowledge to impact society together drive my pursuit of and involvment in science policy. Outside of my science career I enjoy training for and partcipating in triathlons, hiking, collecting and playing board games, and enjoying the nature of the area I live in.
 
-Lastly, I am the proud owner of several radio telescope necklaces made by [Amy Davis Roth](surlyramics.com). You can find me at any professional event wearing these! 
+Lastly, I am the proud owner of several radio telescope necklaces made by [Amy Davis Roth](https://surlyramics.com/). You can find me at any professional event wearing these! 
 
 <div class=""><img src="/assets/img/radio_necklaces.jpg" alt="Radio telescope necklaces."></div>
 

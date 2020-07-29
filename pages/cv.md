@@ -6,7 +6,7 @@ feature-img: /assets/img/VLA.jpg
 permalink: /CV/
 order: 3
 ---
-#### Download her CV [here]({% link /assets/files/Moravec_CV_webpage.pdf %}).
+[Download a PDF of her CV]({% link /assets/files/Moravec_CV_webpage.pdf %}).
 
 #### RESEARCH INTERESTS
 
@@ -66,3 +66,6 @@ __Data Familiarity:__ VLA, Radio morphology catalogs, LoTSS, XMM SUSS, 4XMM-DR9,
 __Astronomical Languages/Software:__ CASA, DS9, IRAF/PyRAF, IDL, Topcat
 
 __Programming Languages/Software:__ Python, Unix CLI/Bash, LaTeX, Git, C++
+
+[Download a PDF of her CV]({% link /assets/files/Moravec_CV_webpage.pdf %}).
+
