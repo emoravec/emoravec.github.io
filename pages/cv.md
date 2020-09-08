@@ -39,18 +39,23 @@ __Graduate Student Fellow__, University of Florida, Gainesville, FL (August 2014
 * MaDCoWS: The Massive and Distant Clusters of WISE Survey Collaboration (January 2016 - present)
 
 #### PEER REVIEWED PUBLICATIONS
+
+<!-- <a href="https://ui.adsabs.harvard.edu/">
+	<img src="/assets/img/publications/ads.png" alt="Moravec ADS" width="50" height="50">
+</a> -->
+
 #### First Author
-* Moravec, E. A. et al. The Massive and Distant Clusters of WISE Survey. IX. High Radio-Activity in a Merging Cluster, 2020, ApJ.
-* Moravec, E. A. et al. The Massive and Distant Clusters of WISE Survey. VII. The Environments and Properties of Radio Galaxies in Clusters at z~1, 2020, ApJ, 88, 74.
-* Moravec, E. A. et al. The Massive and Distant Clusters of WISE Survey. V: Extended Radio Sources in Massive Galaxy Clusters at z~1, 2019, ApJ, 871, 186.
-* Moravec, E. A. et al. HST and Ground-based Spectroscopy of Quasar Outflows: From Mini-BALs to BALs, 2017, MNRAS, 468, 4539.
+* Moravec, E. A. et al. [The Massive and Distant Clusters of WISE Survey. IX. High Radio-Activity in a Merging Cluster](https://ui.adsabs.harvard.edu/abs/2020ApJ...898..145M/abstract), 2020b, ApJ.
+* Moravec, E. A. et al. [The Massive and Distant Clusters of WISE Survey. VII. The Environments and Properties of Radio Galaxies in Clusters at z~1](https://ui.adsabs.harvard.edu/abs/2020ApJ...888...74M/abstract), 2020a, ApJ, 88, 74.
+* Moravec, E. A. et al. [The Massive and Distant Clusters of WISE Survey. V: Extended Radio Sources in Massive Galaxy Clusters at z~1](https://ui.adsabs.harvard.edu/abs/2019ApJ...871..186M/abstract), 2019, ApJ, 871, 186.
+* Moravec, E. A. et al. [HST and Ground-based Spectroscopy of Quasar Outflows: From Mini-BALs to BALs](https://ui.adsabs.harvard.edu/abs/2017MNRAS.468.4539M/abstract), 2017, MNRAS, 468, 4539.
 
 #### Co-Author
-See ORCiD page [https://orcid.org/0000-0001-9793-5416](https://orcid.org/0000-0001-9793-5416)
+See ORCiD page ([https://orcid.org/0000-0001-9793-5416](https://orcid.org/0000-0001-9793-5416))
 
 #### NOTABLE PUBLICATIONS 
-* Moravec E., Czekala I., and Follette K. The Early Career Perspective on the Coming Decade, Astrophysics Career Paths, and the Decadal Survey. Astro2020: Decadal Survey on Astronomy and Astrophysics, APC White Papers, Bulletin of the American Astronomical Society, Vol. 51, Iss. 7, ID. 8.
-* Moravec, E., Nguyen, L. T., and Percher, A. Training in Policy Memoranda Writing for Early Career Scientists, 2019, Journal of Science Policy & Governance, Vol. 15, Issue 1.
+* Moravec E., Czekala I., and Follette K. [The Early Career Perspective on the Coming Decade, Astrophysics Career Paths, and the Decadal Survey](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g...8M/abstract). Astro2020: Decadal Survey on Astronomy and Astrophysics, APC White Papers, Bulletin of the American Astronomical Society, Vol. 51, Iss. 7, ID. 8.
+* Moravec, E., Nguyen, L. T., and Percher, A. [Training in Policy Memoranda Writing for Early Career Scientists](https://www.sciencepolicyjournal.org/uploads/5/4/3/4/5434385/moravec_nguyen_percher_jspg_v15.pdf), 2019, Journal of Science Policy & Governance, Vol. 15, Issue 1.
 
 
 #### SCIENTIFIC AND TECHNICAL EXPERTISE
