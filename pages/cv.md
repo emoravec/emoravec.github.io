@@ -40,9 +40,14 @@ __Graduate Student Fellow__, University of Florida, Gainesville, FL (August 2014
 
 #### PEER REVIEWED PUBLICATIONS
 
-<!-- <a href="https://ui.adsabs.harvard.edu/" float=left>
-	<img src="/assets/img/publications/astrodatasym.png" alt="MoravecPub" width="40%" height="40%">
-</a> -->
+<div class="left-image">
+    <a href="https://ui.adsabs.harvard.edu/" title="Moravec ADS publications">
+        <img src="/assets/img/publications/astrodatasym.png" alt="MoravecADS">
+    </a>
+    <a href="https://orcid.org/0000-0001-9793-5416" title="Moravec orcid publications">
+        <img src="/assets/img/publications/orcid.png" alt="MoravecOrcid">
+    </a>
+</div>
 
 #### First Author
 * Moravec, E. A. et al. [The Massive and Distant Clusters of WISE Survey. IX. High Radio-Activity in a Merging Cluster](https://ui.adsabs.harvard.edu/abs/2020ApJ...898..145M/abstract), 2020b, ApJ.
