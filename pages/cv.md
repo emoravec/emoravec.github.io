@@ -41,11 +41,14 @@ __Graduate Student Fellow__, University of Florida, Gainesville, FL (August 2014
 #### PEER REVIEWED PUBLICATIONS
 
 <div class="left-image">
-    <a href="https://ui.adsabs.harvard.edu/" title="Moravec ADS publications">
+    <a href="https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22%5EMoravec%2C%20E.%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0" title="Moravec ADS publications">
         <img src="/assets/img/publications/astrodatasym.png" alt="MoravecADS">
     </a>
     <a href="https://orcid.org/0000-0001-9793-5416" title="Moravec orcid publications">
         <img src="/assets/img/publications/orcid.png" alt="MoravecOrcid">
+    </a>
+    <a href="https://www.researchgate.net/profile/Emily_Moravec" title="Moravec Research Gate">
+        <img src="/assets/img/publications/research_gate.jpg" alt="MoravecRG">
     </a>
 </div>
 
