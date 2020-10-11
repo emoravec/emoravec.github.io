@@ -69,12 +69,12 @@ See ORCiD page ([https://orcid.org/0000-0001-9793-5416](https://orcid.org/0000-0
 #### SCIENTIFIC AND TECHNICAL EXPERTISE
 
 __Observing Experience__
-* JVLA — 2+ years preparing scheduling blocks for continuum observations, data calibration, and imaging. 
-* GBT — 2 weeks in-situ observational training, 25+ hours of observing experience with  MUSTANG-2, certified remote observer.
+* JVLA — Created scheduling blocks for continuum observations for 4 projects (L-band, C-band, X-band; A and B configurations), imaged over 50 datasets. 
+* GBT — 2 weeks in-situ observational training, 35+ hours of observing experience with MUSTANG2, certified remote observer.
 
 __Interferometry:__ radio interferometric calibration and imaging, particularly self-calibration and wide-field, high-dynamic range imaging using multi-frequency-synthesis; multi-frequency datasets
 
-__Data Familiarity:__ VLA, Radio morphology catalogs, LoTSS, XMM SUSS, 4XMM-DR9, Swift UVOT SSC, Swift 2SXPS, Spitzer, PanSTARRS, DECaLS, HST COS spectra, MDM CCDS spectra, SDSS & BOSS spectra, WIYN IFU spectra (300 - 1000 nm), SNIFS IFU spectra from 2.2m telescope of University of Hawaii (400 - 1000 nm), Gemini GMOS Images
+__Data Familiarity:__ VLA, VLA Surveys, Radio morphology catalogs, LoTSS, XMM SUSS, 4XMM-DR9, Swift UVOT SSC, Swift 2SXPS, Spitzer, PanSTARRS, DECaLS, HST COS spectra, MDM CCDS spectra, SDSS & BOSS spectra, WIYN IFU spectra (300 - 1000 nm), SNIFS IFU spectra from 2.2m telescope of University of Hawaii (400 - 1000 nm), Gemini GMOS Images
 
 __Astronomical Languages/Software:__ CASA, DS9, IRAF/PyRAF, IDL, Topcat
 
