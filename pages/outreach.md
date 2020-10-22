@@ -17,7 +17,7 @@ I thrive at the intersection between science and the public. I have a passion fo
 
 Something that is important to me is that not only professional astronomers understand my research, but that a public audience also feels that they can understand my research. To this end, I have made two videos concerning my research for the public audience:
 * A 10 minute video explaining what a radio galaxy is with the public being the intended audience: [Radio Galaxies](https://youtu.be/2_HBLgb_198)
-* An 8 minute video summarizing this work with the public being the intended audience: [Cosmic Scrapbook](https://www.youtube.com/watch?v=YevdrRTempc&list=PLA0VnboNRbqrdInv5BSiO11gMh9esvKYA&index=1)
+* An 8 minute video summarizing my work with quasars with the public being the intended audience: [Cosmic Scrapbook](https://www.youtube.com/watch?v=YevdrRTempc&list=PLA0VnboNRbqrdInv5BSiO11gMh9esvKYA&index=1)
 
 In early 2016, I participated in the [AAS Astronomy Ambassador Program](https://aas.org/education/aas-astronomy-ambassadors-program) which gave me the tools and skills in order to explain complex astrophysics concepts using ordinary, every-day objects. I highly recommend this workshop and program and can't thank the founders and facilitators enough for this workshop.
 

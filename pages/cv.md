@@ -24,9 +24,9 @@ __Bachelor of Arts in Physics__, 2014, St. Olaf College, Northfield, MN
           
 #### POSITIONS HELD
 
-__Postdoctoral Fellow__, Astronomical Institute of the Czech Academy of Sciences, Prague, Czech Republic (February 2019 - present)
+__Postdoctoral Fellow__, Astronomical Institute of the Czech Academy of Sciences, Prague, Czech Republic (February 2020 - present)
 
-__ALMA Support Scientist__, Czech ARC Node, Prague, Czech Republic (February 2019 - present)
+__ALMA Support Scientist__, Czech ARC Node, Prague, Czech Republic (February 2020 - present)
 
 __Research Assistant__, University of Florida, Gainesville, FL	(August 2018 - December 2019) 
 
@@ -34,6 +34,7 @@ __Graduate Student Fellow__, University of Florida, Gainesville, FL (August 2014
 
 
 #### COLLABORATIONS
+* ExtRAC: Extended Radio Sources in Clusters (January 2020 - present)
 * SHIVA: Searching for a Holistic Interpretation of Variable Accretion (January 2020 - present)
 * SPARCS WG on Source Finding and Characterisation (February 2020 - present)
 * MaDCoWS: The Massive and Distant Clusters of WISE Survey Collaboration (January 2016 - present)
@@ -62,7 +63,8 @@ __Graduate Student Fellow__, University of Florida, Gainesville, FL (August 2014
 See ORCiD page ([https://orcid.org/0000-0001-9793-5416](https://orcid.org/0000-0001-9793-5416))
 
 #### NOTABLE PUBLICATIONS 
-* Moravec E., Czekala I., and Follette K. [The Early Career Perspective on the Coming Decade, Astrophysics Career Paths, and the Decadal Survey](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g...8M/abstract). Astro2020: Decadal Survey on Astronomy and Astrophysics, APC White Papers, Bulletin of the American Astronomical Society, Vol. 51, Iss. 7, ID. 8.
+* J. Marvil and E. Moravec, [VLA Self-Calibration Tutorial](https://casaguides.nrao.edu/index.php?title=VLA_Self-calibration_Tutorial-CASA5.7.0), October 2020, [Karl G. Jansky VLA Turorials](https://casaguides.nrao.edu/index.php?title=Karl_G._Jansky_VLA_Tutorials), NRAO CASA Guides
+* Moravec E., Czekala I., and Follette K., [The Early Career Perspective on the Coming Decade, Astrophysics Career Paths, and the Decadal Survey](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g...8M/abstract), Astro2020: Decadal Survey on Astronomy and Astrophysics, APC White Papers, Bulletin of the American Astronomical Society, Vol. 51, Iss. 7, ID. 8.
 * Moravec, E., Nguyen, L. T., and Percher, A. [Training in Policy Memoranda Writing for Early Career Scientists](https://www.sciencepolicyjournal.org/uploads/5/4/3/4/5434385/moravec_nguyen_percher_jspg_v15.pdf), 2019, Journal of Science Policy & Governance, Vol. 15, Issue 1.
 
 
