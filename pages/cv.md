@@ -63,8 +63,9 @@ __Graduate Student Fellow__, University of Florida, Gainesville, FL (August 2014
 See ORCiD page ([https://orcid.org/0000-0001-9793-5416](https://orcid.org/0000-0001-9793-5416))
 
 #### NOTABLE PUBLICATIONS 
+* Moravec, E., [A Resource for Creating a Website to Promote Your Scientific Work](https://baas.aas.org/pub/2020i0332/release/1), 2020, BAAS, Vol. 52, Iss. 2, ID. 0211. [arXiv](https://arxiv.org/abs/2012.08553)
 * J. Marvil and E. Moravec, [VLA Self-Calibration Tutorial](https://casaguides.nrao.edu/index.php?title=VLA_Self-calibration_Tutorial-CASA5.7.0), October 2020, [Karl G. Jansky VLA Turorials](https://casaguides.nrao.edu/index.php?title=Karl_G._Jansky_VLA_Tutorials), NRAO CASA Guides
-* Moravec E., Czekala I., and Follette K., [The Early Career Perspective on the Coming Decade, Astrophysics Career Paths, and the Decadal Survey](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g...8M/abstract), Astro2020: Decadal Survey on Astronomy and Astrophysics, APC White Papers, Bulletin of the American Astronomical Society, Vol. 51, Iss. 7, ID. 8.
+* Moravec E., Czekala I., and Follette K., [The Early Career Perspective on the Coming Decade, Astrophysics Career Paths, and the Decadal Survey](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g...8M/abstract), Astro2020: Decadal Survey on Astronomy and Astrophysics, 2019, APC White Papers, Bulletin of the American Astronomical Society, Vol. 51, Iss. 7, ID. 8.
 * Moravec, E., Nguyen, L. T., and Percher, A. [Training in Policy Memoranda Writing for Early Career Scientists](https://www.sciencepolicyjournal.org/uploads/5/4/3/4/5434385/moravec_nguyen_percher_jspg_v15.pdf), 2019, Journal of Science Policy & Governance, Vol. 15, Issue 1.
 
 

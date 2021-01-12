@@ -7,7 +7,7 @@ order: 1
 ---
 <div><img src="/assets/img/emoravec.jpg" alt="emoravec" width="225" height="240" align="left" style="padding-top:1%;padding-left:2%;padding-right:2%"></div>
 
-I am a post doctoratoral researcher at the Astronomy Institute of the Czech Academy of Sciences and an ALMA Support Scientist for the Czech Node of the European ALMA Regional Center based in Prague, Czech Republic. I obtained my Ph.D. and master's degree from the University of Florida. 
+I am a post doctoratoral researcher at the Astronomy Institute of the Czech Academy of Sciences and an ALMA Support Scientist for the Czech Node of the European ALMA Regional Center based in Prague, Czech Republic. I obtained my Ph.D. and master's degree from the University of Florida. My last name is pronouced More-/a/-vick (long a).
 
 I am passionate about radio galaxies and being a radio astronomer. 
 
