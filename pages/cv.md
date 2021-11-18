@@ -23,10 +23,11 @@ __Master’s of Science in Astronomy__, 2016, University of Florida, Gainesville
 __Bachelor of Arts in Physics__, 2014, St. Olaf College, Northfield, MN
           
 #### POSITIONS HELD
+__Postdoctoral Fellow__, Green Bank Observatory, Green Bank, West Virginia (November 2021 - present)
 
-__Postdoctoral Fellow__, Astronomical Institute of the Czech Academy of Sciences, Prague, Czech Republic (February 2020 - present)
+__Postdoctoral Fellow__, Astronomical Institute of the Czech Academy of Sciences, Prague, Czech Republic (February 2020 - October 2021)
 
-__ALMA Support Scientist__, Czech ARC Node, Prague, Czech Republic (February 2020 - present)
+__ALMA Support Scientist__, Czech ARC Node, Prague, Czech Republic (February 2020 - October 2021)
 
 __Research Assistant__, University of Florida, Gainesville, FL	(August 2018 - December 2019) 
 
@@ -63,6 +64,7 @@ __Graduate Student Fellow__, University of Florida, Gainesville, FL (August 2014
 See ORCiD page ([https://orcid.org/0000-0001-9793-5416](https://orcid.org/0000-0001-9793-5416))
 
 #### NOTABLE PUBLICATIONS 
+* F. Chao-Hui, E. Moravec, F. Nanut, T. Raducha, O. Reshef, C. Sivakumar, L. A. Williams, [The Spectrum of Early Career Physics](https://rdcu.be/cywDF), Nat. REv. Phys., 2021.
 * Moravec, E., [A Resource for Creating a Website to Promote Your Scientific Work](https://baas.aas.org/pub/2020i0332/release/1), 2020, BAAS, Vol. 52, Iss. 2, ID. 0211. [arXiv](https://arxiv.org/abs/2012.08553)
 * J. Marvil and E. Moravec, [VLA Self-Calibration Tutorial](https://casaguides.nrao.edu/index.php?title=VLA_Self-calibration_Tutorial-CASA5.7.0), October 2020, [Karl G. Jansky VLA Turorials](https://casaguides.nrao.edu/index.php?title=Karl_G._Jansky_VLA_Tutorials), NRAO CASA Guides
 * Moravec E., Czekala I., and Follette K., [The Early Career Perspective on the Coming Decade, Astrophysics Career Paths, and the Decadal Survey](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g...8M/abstract), Astro2020: Decadal Survey on Astronomy and Astrophysics, 2019, APC White Papers, Bulletin of the American Astronomical Society, Vol. 51, Iss. 7, ID. 8.
@@ -72,7 +74,7 @@ See ORCiD page ([https://orcid.org/0000-0001-9793-5416](https://orcid.org/0000-0
 #### SCIENTIFIC AND TECHNICAL EXPERTISE
 
 __Observing Experience__
-* JVLA — Created scheduling blocks for continuum observations for 4 projects (L-band, C-band, X-band; A and B configurations), imaged over 50 datasets. 
+* JVLA — Created scheduling blocks for continuum observations for 5 projects (L-band, C-band, X-band; A and B configurations), imaged over 50 datasets. 
 * GBT — 2 weeks in-situ observational training, 35+ hours of observing experience with MUSTANG2, certified remote observer.
 
 __Interferometry:__ radio interferometric calibration and imaging, particularly self-calibration and wide-field, high-dynamic range imaging using multi-frequency-synthesis; multi-frequency datasets
