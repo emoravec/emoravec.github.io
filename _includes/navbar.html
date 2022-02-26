@@ -25,7 +25,7 @@
     <ul class="hide">
         {% assign name_page = "" %}
         {% assign pages = site.pages | sort: "order" %}
-
+        
         {% for page in pages %}
             {% unless page.title == null or page.hide or name_page contains page.title %}
             <li class="separator"> | </li>

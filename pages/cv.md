@@ -55,10 +55,11 @@ __Graduate Student Fellow__, University of Florida, Gainesville, FL (August 2014
 </div>
 
 #### First Author
-* Moravec, E. A. et al. [The Massive and Distant Clusters of WISE Survey. IX. High Radio-Activity in a Merging Cluster](https://ui.adsabs.harvard.edu/abs/2020ApJ...898..145M/abstract), 2020b, ApJ.
-* Moravec, E. A. et al. [The Massive and Distant Clusters of WISE Survey. VII. The Environments and Properties of Radio Galaxies in Clusters at z~1](https://ui.adsabs.harvard.edu/abs/2020ApJ...888...74M/abstract), 2020a, ApJ, 88, 74.
-* Moravec, E. A. et al. [The Massive and Distant Clusters of WISE Survey. V: Extended Radio Sources in Massive Galaxy Clusters at z~1](https://ui.adsabs.harvard.edu/abs/2019ApJ...871..186M/abstract), 2019, ApJ, 871, 186.
-* Moravec, E. A. et al. [HST and Ground-based Spectroscopy of Quasar Outflows: From Mini-BALs to BALs](https://ui.adsabs.harvard.edu/abs/2017MNRAS.468.4539M/abstract), 2017, MNRAS, 468, 4539.
+* Moravec, E. et al., [Do Radio Active Galactic Nuclei Reflect X-ray Binary Spectral States?](https://ui.adsabs.harvard.edu/abs/2022arXiv220211116M/abstract0), 2022, A&A, accepted.
+* Moravec, E. A. et al., [The Massive and Distant Clusters of WISE Survey. IX. High Radio-Activity in a Merging Cluster](https://ui.adsabs.harvard.edu/abs/2020ApJ...898..145M/abstract), 2020b, ApJ.
+* Moravec, E. A. et al., [The Massive and Distant Clusters of WISE Survey. VII. The Environments and Properties of Radio Galaxies in Clusters at z~1](https://ui.adsabs.harvard.edu/abs/2020ApJ...888...74M/abstract), 2020a, ApJ, 88, 74.
+* Moravec, E. A. et al., [The Massive and Distant Clusters of WISE Survey. V: Extended Radio Sources in Massive Galaxy Clusters at z~1](https://ui.adsabs.harvard.edu/abs/2019ApJ...871..186M/abstract), 2019, ApJ, 871, 186.
+* Moravec, E. A. et al., [HST and Ground-based Spectroscopy of Quasar Outflows: From Mini-BALs to BALs](https://ui.adsabs.harvard.edu/abs/2017MNRAS.468.4539M/abstract), 2017, MNRAS, 468, 4539.
 
 #### Co-Author
 See ORCiD page ([https://orcid.org/0000-0001-9793-5416](https://orcid.org/0000-0001-9793-5416))
