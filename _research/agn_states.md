@@ -12,7 +12,7 @@ Do active galactic nuclei (AGN) with different radio properties lie in distinct 
 To address whether AGN jets might be related to accretion states as in XRBs, I explore whether populations of radio-AGN classified according to their radio jet morphology (FR I and II), excitation class (HERG and LERG), and radio jet linear extent (compact to giant) occupy different and distinct regions of the AGN hardness-intensity diagram (total luminosity vs. hardness). I find that (a) FR Is and IIs, (b) HERGs and LERGs, (c) FR I-LERGs and FR II-HERGs occupy distinct areas of the HID at a statistically significant level (p-value < 0.05) and no clear evidence for population distinction between the different radio jet linear extents. The separation between FR I-LERG and FR II-HERG populations is the strongest in this work. Our results indicate that radio-loud AGN occupy distinct areas of the HID depending on the morphology and excitation class, showing strong similarities to XRBs.
 
 ### Publication
-* Moravec, E. et al., [Do Radio Active Galactic Nuclei Reflect X-ray Binary Spectral States?](https://ui.adsabs.harvard.edu/abs/2022arXiv220211116M/abstract0), 2022, A&A, accepted.
+* Moravec, E. et al., [Do Radio Active Galactic Nuclei Reflect X-ray Binary Spectral States?](https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..28M/abstract), 2022, A&A, 662, A28.
 
 ### Video Summary
 * A 10 minute video explaining what a radio galaxy is with the public being the intended audience: [Radio Galaxies](https://youtu.be/2_HBLgb_198)
@@ -56,6 +56,7 @@ In conclusion, I find evidence that AGN with specific radio properties occupy di
 
 #### Research Question Answer
 Q: Do AGN with different radio properties lie in distinct parts of the HID diagram reflecting XRB states?
+
 A: Radio-loud AGN do indeed occupy distinct areas of the HID depending on the morphology and excitation class, showing strong similarities to XRBs.
 
 ###### Banner image credit: Judith Croston and LOFAR Survey Team 
