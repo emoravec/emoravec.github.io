@@ -65,6 +65,7 @@ __Graduate Student Fellow__, University of Florida, Gainesville, FL (August 2014
 See ORCiD page ([https://orcid.org/0000-0001-9793-5416](https://orcid.org/0000-0001-9793-5416))
 
 #### NOTABLE PUBLICATIONS 
+* Richards, A., Moravec, E., et al., [Self-calibration and Improving Image Fidelity for ALMA and Other Radio Interferometers](https://library.nrao.edu/public/memos/alma/main/memo620.pdf), ALMA Memo No. 620.
 * F. Chao-Hui, E. Moravec, F. Nanut, T. Raducha, O. Reshef, C. Sivakumar, L. A. Williams, [The Spectrum of Early Career Physics](https://rdcu.be/cywDF), Nat. REv. Phys., 2021.
 * Moravec, E., [A Resource for Creating a Website to Promote Your Scientific Work](https://baas.aas.org/pub/2020i0332/release/1), 2020, BAAS, Vol. 52, Iss. 2, ID. 0211. [arXiv](https://arxiv.org/abs/2012.08553)
 * J. Marvil and E. Moravec, [VLA Self-Calibration Tutorial](https://casaguides.nrao.edu/index.php?title=VLA_Self-calibration_Tutorial-CASA5.7.0), October 2020, [Karl G. Jansky VLA Turorials](https://casaguides.nrao.edu/index.php?title=Karl_G._Jansky_VLA_Tutorials), NRAO CASA Guides
